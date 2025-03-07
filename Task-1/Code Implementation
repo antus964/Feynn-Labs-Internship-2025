@@ -1,0 +1,25 @@
+Building an end-to-end code implementation for the AI-Powered Job Application Assistant mobile app described in your project is a significant task that involves multiple components: a mobile app interface, backend processing, AI/ML models, web scraping, and notification systems. Since this is a solo project and the code implementation/validation is optional (bonus grades), I’ll provide a simplified yet functional prototype that demonstrates the core functionality on a small scale. This will align with the "Code Implementation/Validation on Small Scale" section of your report, focusing on key features like resume parsing, job matching, application generation, and basic tracking/notification simulation. The full app would require additional complexity (e.g., mobile app frameworks like React Native, cloud hosting, APIs), which I’ll outline conceptually but not fully implement due to scope and practicality.
+
+## Scope of the Code ##
+
+Platform: A Python-based backend prototype (to simulate the app’s logic), which can later be integrated into a mobile app.
+
+## Features: ##
+
+Resume parsing using NLP (spaCy).
+
+Job matching using TF-IDF and cosine similarity (simplified ML model).
+
+Application generation (simulated cover letter).
+
+Tracking and notification simulation (console-based).
+
+## Limitations: ##
+
+No live job board scraping (due to legal and API restrictions; uses mock data instead).
+
+No mobile app UI (focuses on backend logic; assumes a future React Native frontend).
+
+Simplified feedback loop (manual updates rather than real-time ML retraining).
+
+Purpose: To validate the concept and provide a foundation you can expand for your project report or future development.
